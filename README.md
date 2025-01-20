@@ -28,7 +28,9 @@ Sigue estos pasos para inicializar el proyecto:
 
 - git clone https://github.com/ingjuang/pruebaCodificoBack
 
-- cd SalesDatePredictionBack
+- cd pruebaCodificoBack
+  
+- Configurar cadena de conexión a la base de datos en el archivo appsettings.json
 
 2. **Restaura las dependencias**:
 - dotnet restore
@@ -37,7 +39,7 @@ Sigue estos pasos para inicializar el proyecto:
 - dotnet build
 
 4. **Ejecuta el proyecto**:
-- cd SalesDatePredictionBack
+- cd SalesDatePredictionBack.Api
 - dotnet run --urls="https://localhost:7048"
 
 ## Ejecución de Pruebas
