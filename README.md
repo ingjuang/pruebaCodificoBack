@@ -37,8 +37,8 @@ dotnet restore
 dotnet build
 
 4. **Ejecuta el proyecto**:
-cd SalesDatePredictionBack
-dotnet run --urls="https://localhost:7048"
+##cd SalesDatePredictionBack
+##dotnet run --urls="https://localhost:7048"
 
 ## Ejecución de Pruebas
 
