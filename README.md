@@ -26,15 +26,15 @@ Sigue estos pasos para inicializar el proyecto:
 
 1. **Clona el repositorio**:
 
-git clone https://github.com/ingjuang/pruebaCodificoBack
+- git clone https://github.com/ingjuang/pruebaCodificoBack
 
-cd SalesDatePredictionBack
+- cd SalesDatePredictionBack
 
 2. **Restaura las dependencias**:
-dotnet restore
+- dotnet restore
 
 3. **Compila el proyecto**:
-dotnet build
+- dotnet build
 
 4. **Ejecuta el proyecto**:
 - cd SalesDatePredictionBack
@@ -43,5 +43,5 @@ dotnet build
 ## Ejecución de Pruebas
 
 Para ejecutar las pruebas unitarias, utiliza el siguiente comando:
-dotnet test
+- dotnet test
 
